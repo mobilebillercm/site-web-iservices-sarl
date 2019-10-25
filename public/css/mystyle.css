@@ -1,0 +1,32 @@
+/*li.list-item:before{
+    content: "\009B";
+}*/
+
+.mylist-menu li a {
+    color: #343730;
+    font-size: smaller;
+}
+.rd-navbar-megamenu{
+    /*overflow: scroll;*/
+}
+
+
+/*.sidebar-wrap{
+    color: #165c41;
+    background: #165c41;
+}*/
+/*.sidebar-toggle{
+    color: #165c41;
+}*/
+
+.line-separator{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sub-title-description{
+    padding-left: 56px;
+}
+
+
+
